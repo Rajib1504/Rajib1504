@@ -43,11 +43,11 @@
 <h2>🌱 Projects</h2>
 <h3>1. Gadget World</h3>
 <p>An e-commerce platform for gadgets featuring laptops, mobiles, drones, and more.</p>
-<p>🔗 <a href="#">Live Demo</a> | 📂 <a href="#">Source Code</a></p>
+<p>🔗 <a href="https://gadget-universe.netlify.app/home/product/all%20product">Live Demo</a> | 📂 <a href="#">Source Code</a></p>
 
 <h3>2. Wild Explore</h3>
 <p>A mountain adventure platform focused on eco-friendly trips.</p>
-<p>🔗 <a href="#">Live Demo</a> | 📂 <a href="#">Source Code</a></p>
+<p>🔗 <a href="https://wild-explore.web.app/">Live Demo</a> | 📂 <a href="#">Source Code</a></p>
 
 <hr>
 
