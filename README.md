@@ -11,7 +11,7 @@
 </ul>
 
 <hr>
-
+ 
 <h2>🛠️ Skills & Tools</h2>
 <ul>
   <li><strong>Programming Languages</strong>: JavaScript</li>
