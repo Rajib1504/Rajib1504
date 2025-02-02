@@ -16,6 +16,7 @@
 <ul>
   <li><strong>Programming Languages</strong>: JavaScript</li>
   <li><strong>Frontend Frameworks</strong>: React</li>
+  <li><strong>Backend</strong>: Node js, express</li>
   <li><strong>Styling</strong>: Tailwind CSS</li>
   <li><strong>Tools</strong>: Git, Notion,firebase</li>
 </ul>
