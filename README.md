@@ -3,10 +3,10 @@
 
 <hr>
 
-<h2>🌟 About Me</h2> 
+<h2>🌟 About Me</h2>  
 <ul>
   <li><strong>From</strong>: India 🇮🇳</li>
-  <li><strong>Current Focus</strong>: Building creative and functional web apps using <strong>React</strong> and <strong>Tailwind CSS</strong>.</li>
+  <li><strong>Current Focus</strong>: Building creative  and functional web apps using <strong>React</strong> and <strong>Tailwind CSS</strong>.</li>
   <li><strong>Passion</strong>: Designing user-friendly interfaces and exploring eco-friendly tech solutions.</li>
 </ul>
 
