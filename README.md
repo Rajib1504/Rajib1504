@@ -1,60 +1,91 @@
-<h1>👋 Hi, I'm Rajib Sardar</h1>
-<p>Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast, currently diving deep into the world of React and creating dynamic, user-friendly projects.</p>
+<div align="center">
+  <img height="150" src="https://i.ibb.co/tw2F8s0C/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png"  />
+</div>
 
-<hr>
+###
 
-<h2>🌟 About Me</h2>  
-<ul>
-  <li><strong>From</strong>: India 🇮🇳</li>
-  <li><strong>Current Focus</strong>: Building creative  and functional web apps using <strong>React</strong> and <strong>Tailwind CSS</strong>.</li>
-  <li><strong>Passion</strong>: Designing user-friendly interfaces and exploring eco-friendly tech solutions.</li>
-</ul>
+<h1 align="center">Hi, I'm Rajib Sardar  👋</h1>
 
-<hr>
- 
-<h2>🛠️ Skills & Tools</h2>
-<ul>
-  <li><strong>Programming Languages</strong>: JavaScript</li>
-  <li><strong>Frontend Frameworks</strong>: React</li>
-  <li><strong>Backend</strong>: Node js, express</li>
-  <li><strong>Styling</strong>: Tailwind CSS</li>
-  <li><strong>Tools</strong>: Git, Notion,firebase</li>
-</ul>
+###
 
-<hr>
+<h3 align="left">👩‍💻  About Me</h3>
 
-<h2>🚀 Currently Learning</h2>
-<ul>
-  <li>React Components and Conditional Rendering</li>
-  <li>Dynamic UI Updates for real-time user interaction</li>
-  <li>Regular Expressions in JavaScript</li>
-</ul>
+###
 
-<hr>
+<h2 align="left">Rajib Sardar</h2>
 
-<h2>🎯 Future Goals</h2>
-<ul>
-  <li>Master advanced React concepts like state management and server-side rendering</li>
-  <li>Explore backend technologies to become a full-stack developer</li>
-  <li>Build more eco-friendly and impactful web solutions</li>
-</ul>
+###
 
-<hr>
+<p align="left">🚀 I'm a Frontend Developer passionate about building modern, responsive, and high-performance web applications. With expertise in React, Tailwind CSS, JavaScript, Node.js, Express.js, and MongoDB, I love turning ideas into beautiful, functional, and user-friendly interfaces.<br><br><br>- 🔭 I’m working on a  full-stack e-commerce website<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time I read books, watch podcasts</p>
 
-<h2>🌱 Projects</h2>
-<h3>1. Gadget World</h3>
-<p>An e-commerce platform for gadgets featuring laptops, mobiles, drones, and more.</p>
-<p>🔗 <a href="https://gadget-universe.netlify.app/home/product/all%20product">Live Demo</a> | 📂 <a href="#">Source Code</a></p>
+###
 
-<h3>2. Wild Explore</h3>
-<p>A mountain adventure platform focused on eco-friendly trips.</p>
-<p>🔗 <a href="https://wild-explore.web.app/">Live Demo</a> | 📂 <a href="#">Source Code</a></p>
+<h3 align="left">🛠 Language and tools</h3>
 
-<hr>
+###
 
-<h2>📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=rajibsardar&show_icons=true&theme=radical" alt="GitHub Stats">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
 
-<hr>
+###
 
-<h2>🌐 Connect With
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajib1504&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajib1504&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://streak-stats.demolab.com?user=Rajib1504&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">🤙Let's  Connect ...</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</div>
+
+###
