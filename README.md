@@ -83,8 +83,7 @@
 </div>
 
 ###
-[![trophy](https://github-profile-trophy.vercel.app/?Rajib1504=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-###
+[![trophy](https://github-profile-trophy.vercel.app/?https://github.com/Rajib1504=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
