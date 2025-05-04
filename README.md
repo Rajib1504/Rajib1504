@@ -83,7 +83,7 @@
 </div>
 
 ###
-[![trophy](https://github-profile-trophy.vercel.app/?https://github.com/Rajib1504=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?Rajib1504=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -92,7 +92,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rajib1504&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajib1504&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
+g
 ###
 
 <br clear="both">
