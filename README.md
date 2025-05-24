@@ -126,5 +126,5 @@
 </div>
 
 ###
-<h3 align="center">⭐ If you find my work helpful or interesting, please consider giving my projects a star!</h3>
+<h3 align="centre">⭐ If you find my work helpful or interesting, please consider giving my projects a star!</h3>
 
