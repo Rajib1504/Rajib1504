@@ -84,7 +84,7 @@
 
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajib1504&theme=onedark)](https://github.com/Rajib1504)
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats  :</h3>
 
 ###
 
