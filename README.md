@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🚀 I'm a Frontend Developer passionate about building modern, responsive, and high-performance web applications. With expertise in React, Tailwind CSS, JavaScript, Node.js, Express.js, and MongoDB, I love turning ideas into beautiful, functional, and user-friendly interfaces.<br><br><br>- 🔭 I’m working on a  full-stack e-commerce website<br>- 📚 I'm currently learning Gsap, Typescript, NodeJs,NextJs<br>- ⚡ In my free time I read books, watch podcasts, explore new technologies  ...</p>
+<p align="left">🚀 I'm a Frontend Developer passionate about building modern, responsive, and high-performance web applications. With expertise in React, Tailwind CSS, JavaScript, Node.js, Express.js, and MongoDB, I love turning ideas into beautiful, functional, and user-friendly interfaces.<br><br><br>- 🔭 I’m working on a  full-stack e-commerce website<br>- 📚 I'm currently learning Gsap, Typescript, NodeJs, NextJs<br>- ⚡ In my free time I read books, watch podcasts, explore new technologies  ...</p>
 
 ###
 
